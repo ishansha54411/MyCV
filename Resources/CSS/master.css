@@ -1,0 +1,42 @@
+.contents{
+    position: absolute;
+    top: 145px;
+    width: 100%;
+}
+.contents-body{
+    position: absolute;
+    top:67px;
+    width:100%;
+}
+.profile-name{
+    color: red;
+    float: right;
+    font-style: italic;
+}
+.table{
+    width:100%;
+}
+img {
+    border-radius: 50%;
+    height:150px;
+}
+.profile-pic{
+    position: relative;
+    bottom: 100px;
+    left: 85px;
+}
+.section-head{
+    text-align: center;
+    border-bottom:3px solid red;
+}
+.section-body{
+    background-color: aliceblue;
+    border-radius: 13px;
+}
+.section-body div{
+    padding-top: 10px;
+    padding-bottom: 25px;
+}
+.profile-section:last-child{
+    padding-bottom: 50px;
+}
